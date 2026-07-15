@@ -9,6 +9,8 @@
 ![Made With Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge)
 
+![Views](https://komarev.com/ghpvc/?username=PalAnghan&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 </div>
