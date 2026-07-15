@@ -1,17 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Welcome+to+Logic+Box!;Pattern+Generator+%2B+Number+Analyzer;Built+with+Python+%F0%9F%90%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Welcome+to+Logic+Box!+%F0%9F%8E%AF;Pattern+Generator+%2B+Number+Analyzer;Built+with+Python+%F0%9F%90%8D;Loops+%7C+Logic+%7C+Fun" alt="Typing SVG" />
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge)
 ![Made With Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🔴⚪ What is Logic Box?
+
+</div>
 
 **Logic Box** is a simple, menu-driven Python program that does two fun things:
 
@@ -19,6 +27,10 @@
 2. 🔢 **Analyzes numbers** in a range — tells you which are odd/even and adds them all up
 
 It's a beginner-friendly project that shows off how loops, `range()`, and `match-case` work in real life — no boring theory, just a clean little tool you can run and play with.
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -34,19 +46,28 @@ In the video, I cover:
 - 🚪 How choosing option `3` breaks the loop and exits the program cleanly
 - 🐍 A live demo — running the program and trying all 3 options
 
-▶️ **[Watch the video here](#)** *(replace this link with your uploaded video/YouTube link)*
+<div align="center">
+
+### ▶️ **[Watch the Full Video Here](#)**
+*(replace this link with your uploaded video/YouTube link)*
+
+</div>
 
 ---
 
 ## ✨ Features
 
+<div align="center">
+
 | Feature | Description |
-|---|---|
-| 🔺 Pattern Generator | Type a number, get a right-angled triangle made of stars |
-| 🔢 Number Analyzer | Enter a start & end number, see odd/even + total sum |
-| 🎛️ Simple Menu | Everything runs from one easy-to-use menu |
-| 🔄 Loops Forever | Menu keeps coming back until you choose Exit |
-| 🚀 Zero Setup | No libraries needed — pure Python, runs instantly |
+|:---:|:---|
+| 🔺 | **Pattern Generator** — Type a number, get a right-angled triangle made of stars |
+| 🔢 | **Number Analyzer** — Enter a start & end number, see odd/even + total sum |
+| 🎛️ | **Simple Menu** — Everything runs from one easy-to-use menu |
+| 🔄 | **Loops Forever** — Menu keeps coming back until you choose Exit |
+| 🚀 | **Zero Setup** — No libraries needed, pure Python, runs instantly |
+
+</div>
 
 ---
 
@@ -93,6 +114,8 @@ Sum of all numbers from 10 to 15 is: 75
 
 ## 🚀 How to Run It
 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="60">
+
 1. Make sure Python is installed on your computer (Python 3.10 or newer, since this project uses `match-case`)
 2. Download or clone this repository
 3. Open a terminal in the project folder
@@ -127,9 +150,13 @@ flowchart TD
 
 ## 🛠️ Tech Used
 
-- 🐍 **Python** — the only language used
-- 🔁 **for / while loops** — the heart of this project
-- 🎯 **match-case** — clean way to handle menu choices
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Loops](https://img.shields.io/badge/Loops-for%20%2F%20while-orange?style=for-the-badge)
+![MatchCase](https://img.shields.io/badge/match--case-clean%20logic-purple?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -144,10 +171,21 @@ Logic Box/
 
 ---
 
-## 🙋‍♂️ Author
+<div align="center">
 
-**Pal Anghan**
-🎓 BCA Student | 💻 MERN Stack Developer | 🐍 Python Enthusiast
+## 🙋‍♂️ About the Author
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
+
+### **Pal Anghan**
+🎓 BCA Student &nbsp;|&nbsp; 💻 MERN Stack Developer &nbsp;|&nbsp; 🐍 Python Enthusiast
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pal-anghan)
+[![Gmail](https://img.shields.io/badge/Email-palanghan8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palanghan8@gmail.com)
+
+</div>
 
 ---
 
@@ -155,6 +193,8 @@ Logic Box/
 
 ### ⭐ If you liked this project, give it a star!
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=00C853&center=true&vCenter=true&width=500&lines=Thanks+for+checking+out+Logic+Box!;Happy+Coding+%F0%9F%9A%80" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=00C853&center=true&vCenter=true&width=500&lines=Thanks+for+checking+out+Logic+Box!;Happy+Coding+%F0%9F%9A%80;Let's+connect+on+LinkedIn+%F0%9F%91%8B" alt="Footer Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 </div>
