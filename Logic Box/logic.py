@@ -7,11 +7,7 @@ while True:
     print("2. Analyze a Range of Numbers")
     print("3. Exit")
     
-    #try:
     choice_num = int(input("Enter Your Choice: "))
-   # except ValueError:
-    #    print("Please enter a valid number.")
-     #   continue
         
     match choice_num:
         case 1:
