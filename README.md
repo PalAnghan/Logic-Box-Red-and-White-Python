@@ -51,7 +51,7 @@ In the video, I cover:
 <div align="center">
 
 ### ▶️ **[Watch the Full Video Here](https://drive.google.com/file/d/1ziLCk8yal4rtNXXAVFI55sUe86WeysHm/view?usp=sharing)**
-### *(replace this link with your uploaded video/YouTube link)*
+
 
 </div>
 
